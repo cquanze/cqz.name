@@ -1,0 +1,23 @@
+- title: "3D Modeling"
+  description: "Stills and video renders of some 3D modeled scenes. Intro to 3D Modeling Course. Done in Maya."
+  items:
+    - type: image
+      title: "Nixie tube lamp device."
+      path: "/assets/img/nixie_tube.png"
+      description: "A 3D render of a single numeric digit nixie tube on a wooden box placed on a table in a dimly lit environment. The digit 2 is illuminated. A spare tube can be seen to the left."
+    - type: image
+      title: "Decaying room in the ruins of Gunkanjima (Hashima Island). Modelled after a photo."
+      path: "/assets/img/room_haikyo.png"
+      description: "A 3D render of a decaying room with a sunset visible through the balcony. Wooden beams, broken ceramics and the remains of door panels litter the floor."
+
+- title: "Hand Drawn Animation"
+  description: "Animations from Hand Drawn Computer Animation Course (Fall 2015). Done in TVPaint."
+  items:
+    - type: embed
+      title: "At Smokey Jack&#039;s Sheep Camp (0:31 - 0:41)"
+      url: "https://player.vimeo.com/video/140867239"
+      href: "https://vimeo.com/140867239"
+    - type: embed
+      title: "Animate the Internet (0:39 - 0:59)"
+      url: "https://player.vimeo.com/video/146338859"
+      href: "https://vimeo.com/146338859"

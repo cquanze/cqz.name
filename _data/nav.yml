@@ -1,0 +1,8 @@
+- title: "Home"
+  path: "/"
+- title: "Publications"
+  path: "/publications"
+- title: "Portfolio"
+  path: "/portfolio"
+- title: "CV"
+  path: "/cv.pdf"
