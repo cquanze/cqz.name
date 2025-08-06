@@ -1,8 +1,8 @@
 - title: "Case Law Grounding: Using Precedents to Align Decision-Making for Humans and AI"
   venue: "ACM CI"
   year: 2025
-  url: "#"
-  pdf: "#"
+  url: "https://dl.acm.org/doi/10.1145/3715928.3737487"
+  pdf: "https://dl.acm.org/doi/pdf/10.1145/3715928.3737487"
   preprint: false
   authors:
     - name: Quan Ze Chen
@@ -11,8 +11,8 @@
 - title: "SPICA: Retrieving Scenarios for Pluralistic In-Context Alignment"
   venue: "ACL Findings"
   year: 2025
-  url: "#"
-  pdf: "#"
+  url: "https://aclanthology.org/2025.findings-acl.41/"
+  pdf: "https://aclanthology.org/2025.findings-acl.41.pdf"
   arxiv: "https://arxiv.org/abs/2411.10912"
   preprint: false
   authors:
