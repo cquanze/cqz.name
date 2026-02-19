@@ -15,9 +15,9 @@
   items:
     - type: embed
       title: "At Smokey Jack&#039;s Sheep Camp (0:31 - 0:41)"
-      url: "https://player.vimeo.com/video/140867239"
+      link: "https://player.vimeo.com/video/140867239"
       href: "https://vimeo.com/140867239"
     - type: embed
       title: "Animate the Internet (0:39 - 0:59)"
-      url: "https://player.vimeo.com/video/146338859"
+      link: "https://player.vimeo.com/video/146338859"
       href: "https://vimeo.com/146338859"

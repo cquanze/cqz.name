@@ -1,0 +1,21 @@
+---
+title: "PolicyCraft: Supporting Collaborative and Participatory Policy Design through Case-Grounded Deliberation"
+venue: "CHI"
+year: 2025
+
+link: "https://dl.acm.org/doi/full/10.1145/3706598.3713865"
+doi: "10.1145/3706598.3713865"
+pdf: "https://dl.acm.org/doi/pdf/10.1145/3706598.3713865"
+arxiv: "https://arxiv.org/abs/2409.15644"
+preprint: false
+authors:
+  - name: Tzu-Sheng Kuo
+  - name: Quan Ze Chen
+    flags: [ "me" ]
+  - name: Amy X. Zhang
+  - name: Jane Hsieh
+  - name: Haiyi Zhu
+  - name: Kenneth Holstein
+---
+
+Community and organizational policies are typically designed in a top-down, centralized fashion, with limited input from impacted stakeholders. This can result in policies that are misaligned with community needs or perceived as illegitimate. How can we support more collaborative, participatory approaches to policy design? In this paper, we present PolicyCraft, a system that structures collaborative policy design through case-grounded deliberation. Building on past research that highlights the value of concrete cases in establishing common ground, PolicyCraft supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases. A field study across two university courses showed that students using PolicyCraft reached greater consensus and developed better-supported course policies, compared with those using a baseline system that did not scaffold their use of concrete cases. Reflecting on our findings, we discuss opportunities for future HCI systems to help groups more effectively bridge between abstract policies and concrete cases.

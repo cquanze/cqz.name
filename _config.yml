@@ -8,39 +8,13 @@ author:
   name: "Quan Ze Chen"
   position: "Postdoctoral Researcher"
   affiliation: "AI & Democracy Foundation"
+  email: "me (at) [domain]"
   image:
     path: "/assets/img/qr.png"
     alt: "QR Code"
 
-  ## Links to scholar profiles
-  # Supported types: google-scholar, semantic-scholar, dblp, orcid
-  scholar-links:
-    - type: google-scholar
-      url: https://scholar.google.com/citations?user=TnBpKAoAAAAJ&hl=en
-    - type: semantic-scholar
-      url: https://www.semanticscholar.org/author/Quanze-Chen/3207763
-    - type: orcid
-      orcid: 0000-0002-6500-8922
-
-  ## Links to portfolio websites
-  # Supported types: artstation, adobe, deviantart
-  portfolio-links:
-    - type: artstation
-      url: https://artstation.com/
-    - type: deviantart
-      url: https://deviantart.com/
-
-  ## Links to social media
-  # Supported types: twitter, github, bluesky, linkedin, instagram
-  socials:
-    - type: twitter
-      handle: cquanze
-    - type: github
-      handle: cquanze
-    - type: linkedin
-      handle: cquanze
-    - type: bluesky
-      handle: cqz.bsky.social
+footer:
+  show-theme-source: true
 
 # Where to pull assets from
 assets:
@@ -48,6 +22,37 @@ assets:
   baseurl: /assets/
   sources:
     - assets
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:year/:title/
+  projects:
+    output: true
+    permalink: /project/:name/
+  portfolio:
+    output: true
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: portfolio-item
 
 # Plugins
 plugins:

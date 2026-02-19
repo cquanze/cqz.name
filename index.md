@@ -1,9 +1,12 @@
 ---
-layout: home
+layout: homepage
 title: "Home"
 permalink: /
-show-publications: true
-show-portfolio: true
+sections:
+  - intro
+  - publications
+  - portfolio
+collapse-pubs-before: 2022
 ---
 
 # About Me
