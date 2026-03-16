@@ -6,7 +6,7 @@ year: 2024
 link: "https://dl.acm.org/doi/10.1145/3626252.3630795"
 doi: "10.1145/3626252.3630795"
 pdf: "https://dl.acm.org/doi/pdf/10.1145/3626252.3630795"
-code: "https://social.cs.washington.edu/sfl-curriculum/"
+artifact: "https://social.cs.washington.edu/sfl-curriculum/"
 preprint: false
 authors:
   - name: Kianna Bolante
